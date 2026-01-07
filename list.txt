@@ -1,0 +1,7 @@
+apple.com
+google.com
+youtube.com
+googleapis.com
+googlevideo.com
+1password.com
+dropbox.com
