@@ -4,5 +4,4 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,dropbox.com
