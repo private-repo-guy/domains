@@ -1,0 +1,13 @@
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,bcge.ch
+DOMAIN-SUFFIX,csob.cz
+DOMAIN-SUFFIX,csob.sk
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,postfinance.ch
+DOMAIN-SUFFIX,swisscom.ch
+DOMAIN-SUFFIX,swissquote.ch
+DOMAIN-SUFFIX,twint.ch
+DOMAIN-SUFFIX,zkb.ch
