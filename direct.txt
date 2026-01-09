@@ -6,5 +6,3 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,dropbox.com
-DOMAIN-SUFFIX,zoom.us
-DOMAIN-SUFFIX,zoom.com
