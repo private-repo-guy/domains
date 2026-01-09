@@ -1,0 +1,2 @@
+PROCESS,/Applications/Things3.app/Contents/MacOS/Things3
+PROCESS,/System/Volumes/Preboot/Cryptexes/Incoming/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
