@@ -1,2 +1,2 @@
-PROCESS,Things3
-PROCESS,com.apple.WebKit.Networking
+PROCESS-NAME,/Applications/Things3.app/Contents/MacOS/Things3
+PROCESS-NAME,/System/Volumes/Preboot/Cryptexes/Incoming/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
