@@ -1,4 +1,2 @@
 PROCESS-NAME,/System/Applications/FaceTime.app/Contents/MacOS/FaceTime
-PROCESS-NAME,/Applications/Firefox.app/Contents/MacOS/firefox
-PROCESS-NAME,/Applications/Things3.app/Contents/MacOS/Things3
 PROCESS-NAME,/Applications/zoom.us.app/Contents/MacOS/zoom.us
