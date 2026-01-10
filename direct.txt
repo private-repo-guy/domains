@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,bitdefender.net
+DOMAIN-SUFFIX,coop.ch
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,github.com
@@ -9,6 +10,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,signal.com
+DOMAIN-SUFFIX,supercard.ch
 DOMAIN-SUFFIX,telegram.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,youtube.com
